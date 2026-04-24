@@ -38,5 +38,6 @@
 	</dependencyManagement>
   <modules>
   	<module>javasoap-webservice-hellowebservice</module>
+  	<module>javasoap-webservice-jaxbxjc</module>
   </modules>
 </project>
